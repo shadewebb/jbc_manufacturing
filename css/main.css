@@ -136,6 +136,7 @@ nav a {
     grid-template: auto / 1fr;
     row-gap: 10px;
     max-width: 600px;
+    margin-bottom: 40px;
 }
 
 .contact-us--title {
